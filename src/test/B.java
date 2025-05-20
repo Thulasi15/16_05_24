@@ -8,6 +8,10 @@ public class B {
 	    System.out.println(id);
 	  }
 
-	}
+	
+public void secondFile() {
+	System.out.println("Secondfile clone");
+}
 
 
+}

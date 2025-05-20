@@ -24,7 +24,10 @@ public class A extends B{
 	  public static void main(String[] args) {
 	    A a = new A();
 	  }
-
+public void newFile() {
+	System.out.println("clone file");
+}
+	  
 	}
 
 
