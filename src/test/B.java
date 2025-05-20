@@ -7,6 +7,16 @@ public class B {
 	public B(int id) {
 	    System.out.println(id);
 	  }
+	for(String s:lines) {
+		System.out.println(s);
+		if(s.contains("Java")) {
+			
+			System.out.println("true");
+		}
+		else {
+			System.out.println("false");
+		}
+	}
 
 	
 public void secondFile() {
